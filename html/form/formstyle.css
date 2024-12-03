@@ -1,0 +1,17 @@
+form{
+    background-color: greenyellow;
+    text-align: center; 
+    margin: 50px;
+    display: inline-block;
+}
+
+h1{
+    color: red;
+}
+button{
+    background-color: rgb(255, 153, 0);
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+}

@@ -1,0 +1,19 @@
+table{
+    list-style: inside;
+    background-color: green;
+    text-align: center;
+}
+.item1{
+    margin:40px ;
+    color:yellow;
+}
+p{
+    color: aliceblue;
+    margin: 30px 0 70px 0;
+}
+div{
+    color: aliceblue;
+}
+li{
+    margin: 10px;;
+}

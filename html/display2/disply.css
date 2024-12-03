@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+    margin: 0;
+    padding: 0;
+}
+.item{
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position:sticky;
+    bottom: 0;
+    top: 0;
+    animation: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes example{
+    0%{background-color: red;}
+    25%{background-color: yellow;}
+    50%{background-color: beige;}
+    100%{background-color: red;}
+
+}
+
+nav a{
+    font-size: 2em;
+    padding: 20px;
+}
+p{
+    color: white;
+    font-size: 2em;
+}
+span{
+    color: yellow;
+    font-size: 2em;
+}

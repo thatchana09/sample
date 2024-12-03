@@ -1,0 +1,31 @@
+.contianer{
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+    border: 2px solid red;
+    align-items: center;
+}
+.item1 ,.item5{
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 300px;
+}
+.item2 ,.item6{
+    color: black;
+    background-color: orange;
+    width: 150px;
+    height: 300px;
+}
+.item3 ,.item7{
+    color: white;
+    background-color:red;
+    width: 150px;
+    height: 300px;
+}
+.item4 ,.item8{
+    color:black;
+    background-color:lightgray;
+    width: 150px;
+    height: 300px;
+}

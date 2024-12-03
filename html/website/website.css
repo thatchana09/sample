@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+}
+.one{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+a{
+    padding: 25px;
+}
+.two{
+    text-align: center;
+    padding: 75px;
+    width:175px ;
+    height: 400px; 
+    display: flex;
+}
+ img:hover{
+    box-shadow: 0px 0px 10px 8px white;
+}
+
+footer{
+    display:flex;
+    margin-top: 25px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+a{
+    border-radius: 1.5em;
+    font-size: 2em;
+}
+.fb:hover{
+
+    /* box-shadow: 0px 0px 0px 3px white; */
+    /* background: radial-gradient(circle,white,aqua); */
+    /* border: 2px solid red; */
+    background: red;
+
+}

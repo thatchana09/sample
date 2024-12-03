@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.item1{
+    color: aliceblue;
+    background-color: darkmagenta;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0%;
+    
+}
+a{
+    color: aliceblue;
+    padding:20px;
+    
+}
+.item4{
+    color: aliceblue;
+    background-color: darkmagenta;
+    text-align: center;
+    padding: 30px;
+    border: none;
+    margin: auto;
+}
+.item2{
+    background-color: rgb(132, 136, 136);
+    padding-bottom: 70px;
+    padding: 30px;
+    height: 340px;
+    margin: 10px;
+}
+p{
+    color: lightgray;
+    
+}
